@@ -26,7 +26,9 @@ public class LLStack<T> {
     int size() {
         return size;
     }
-
+    
+    
+    //returns boolean 
     boolean isEmpty() {
         return size == 0;
     }
